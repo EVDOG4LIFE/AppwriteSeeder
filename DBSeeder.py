@@ -1,3 +1,5 @@
+#This is a basic python script that will seed your collection with fake users. Do NOT use this in a production environment.
+
 from appwrite.client import Client
 from appwrite.services.databases import Databases
 from appwrite.id import ID
