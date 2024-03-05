@@ -38,4 +38,4 @@ def seed_users(count=10):
         )
         print(f"Inserted: {response}")
 
-seed_users(450)
+seed_users(1250)
